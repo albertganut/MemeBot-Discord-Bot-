@@ -7,16 +7,16 @@ Features:
 - Responds to $lionel with $messi as a fun easter egg
   
 Setup Instructions:
-- Requirements
-- Python 3.7+
-- A Discord bot token (see below)
-- discord.py
-- requests
+- Requirements:
+  - Python
+  - A Discord bot token (see below)
+  - discord.py
+  - requests
 
 Installation: 
 - Clone this repository:
-- git clone https://github.com/your-username/MemeBot-Discord-Bot.git
-- cd MemeBot-Discord-Bot
+  - git clone https://github.com/your-username/MemeBot-Discord-Bot.git
+  - cd MemeBot-Discord-Bot
 - Install dependencies: 
   - pip install discord requests
 - Create a bot and get your token:
